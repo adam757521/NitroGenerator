@@ -8,6 +8,7 @@ Features
 
 - Delay between gift checks.
 - Code logs (saves valid nitro codes to a file)
+- Anti Rate-Limit (Wont redeem code if currently rate limited, will wait instead.)
 
 Disclaimer
 -------------
