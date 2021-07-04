@@ -7,6 +7,7 @@ Features
 -------------
 
 - Delay between gift checks.
+- Code logs (saves valid nitro codes to a file)
 
 Disclaimer
 -------------
